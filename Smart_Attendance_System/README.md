@@ -13,6 +13,18 @@ Traditional methods of taking attendance can be time-consuming and inefficient. 
    <li> HTML/CSS/JavaScript: Frontend technologies for the user interface.</li>
 </ul>
 
+# Requirements
+asgiref==3.3.1
+Django==3.1.7
+djangorestframework==3.12.4
+numpy==1.20.2
+opencv-contrib-python==4.5.1.48
+opencv-python==4.5.1.48
+Pillow==8.2.0
+pytz==2021.1
+pywin32==300
+sqlparse==0.4.1
+
 # Installation
 <ol>
     <li>git clone https://github.com/yourusername/smart-attendance-system.git (Clone the repository) </li>
