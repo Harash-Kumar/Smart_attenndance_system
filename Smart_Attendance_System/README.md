@@ -12,3 +12,24 @@ Traditional methods of taking attendance can be time-consuming and inefficient. 
    <li> Flask: Micro web framework for building the user interface.</li>
    <li> HTML/CSS/JavaScript: Frontend technologies for the user interface.</li>
 </ul>
+
+# Installation
+<ol>
+    <li>git clone https://github.com/yourusername/smart-attendance-system.git (Clone the repository) </li>
+    <li>pip install -r requirements.txt (Install dependencies)</li>
+    <li>python manage.py runserver (Run the application) </li>
+</ol>
+
+# Uses
+<ol>
+    <li>Launch the application by running "python manage.py runserver"</li>
+    <li>Navigate to "http://127.0.0.1:8000/" in your web browser.</li>
+    <li>Register faces of individuals (students/employees) into the system.</li>
+    <li>Use the system to mark attendance automatically during sessions.</li>
+</ol>
+
+# Contributing
+Contributions are welcome! If you have any ideas for improvement or feature requests, please open an issue or submit a pull request.
+
+# Acknowledgements
+This project was inspired by the need for efficient attendance management systems and utilizes various open-source libraries and technologies.
